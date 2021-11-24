@@ -22,7 +22,7 @@
 
 <p align=center>
 <img src="
-./imgs/trt-info.png
+.\imgs\trt-info.png
 " width = "70%"> <br/>
 <b><font color=#999AAA size=3 face="仿宋">
 图1.TensorRT优化原理
@@ -33,7 +33,7 @@
 
 <p align=center>
 <img src="
-./imgs/architecture.png
+.\imgs\architecture.png
 " width = "70%"> <br/>
 <b><font color=#999AAA size=3 face="仿宋">
 图2.TensorRT处理模型流程图
@@ -48,7 +48,7 @@
 
 <p align=center>
 <img src="
-./imgs/res1.png
+.\imgs\res1.png
 " width = "80%"> <br/>
 <b><font color=#999AAA size=3 face="仿宋">
 图3.未使用TensorRT优化（左）与使用TensorRT优化（右）检测对比
