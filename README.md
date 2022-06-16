@@ -13,7 +13,7 @@
     本项目由电子科大深圳高研院-飞机识别课题组所有。<br/>
     欢迎交流指正！<br/></b></font>
 <font face=TimesNewRoman><b>
-    This project is base on UESTC-SIAS Aircraft Detect Research Group.<br/>
+    This project is base on UESTC-SIAS Aircraft Recongnition Research Group.<br/>
     Welcome to communicate with us and correct our mistakes!</b></font>
 </p>
 
